@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "main": "index.js",
-  "homepage": "https://lahari7chandu.github.io/react-meme-generator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
